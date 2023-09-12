@@ -20,6 +20,6 @@
 <p align="center">
  <h2 align="center">My Github Stats</h2>
 
-|My github statistics|Most used languages|Streaks|
-|-|-|-|
+|My github statistics|Most used languages|
+|-|-|
 |<img src="https://github-readme-stats.vercel.app/api?username=BulatXam&show_icons=true&theme=dark&hide_title=true" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BulatXam&show_icons=true&theme=dark&hide_title=true" />
