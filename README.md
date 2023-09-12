@@ -52,11 +52,6 @@
 
 <h3 align="center">Я разработчик на языке Python, знаю множество инструментов для web-разработки и много чего полезного :)</h3>
 
-
-Разрабатываю библиотеки:
-- [curcheck](https://github.com/BulatXam/curcheck)
-- [aiogramarch](https://github.com/BulatXam/aiogramarch)
-
 <br>
 
 ## <p align="center">Мои трофеи</p>
